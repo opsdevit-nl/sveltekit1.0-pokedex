@@ -1,4 +1,18 @@
-# create-svelte
+# sveltekit1.0-pokedex
+
+![GitHub last commit](https://img.shields.io/github/last-commit/vitobotta/hetzner-k3s)
+![GitHub issues](https://img.shields.io/github/issues-raw/opsdevit-nl/sveltekit1.0-pokedex)
+![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/opsdevit-nl/sveltekit1.0-pokedex)
+![GitHub Discussions](https://img.shields.io/github/discussions/opsdevit-nl/sveltekit1.0-pokedex)
+![GitHub top language](https://img.shields.io/github/languages/top/opsdevit-nl/sveltekit1.0-pokedex)
+![build workflow](https://github.com/opsdevit-nl/sveltekit1.0-pokedex/actions/workflows/node.js.yml/badge.svg)
+![Master](https://github.com/github/docs/actions/workflows/main.yml/badge.svg?branch=main)
+
+This is the Pokedex code base (after the tutorial of James Q Quick at YouTube) with the adjustments for SvelteKit 1.0 that was released in December 2022.
+In his tutorial he uses a beta version of SvelteKit and it has significantly changed, so if you follow the video it won't workout unless you adjust it for SvelteKit 1.0
+![SvelteKit Crash Course - SSR, API Routes, Stores, Tailwind CSS, and More!](https://www.youtube.com/watch?v=UU7MgYIbtAk)
+
+## create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
 
@@ -36,5 +50,3 @@ npm run build
 You can preview the production build with `npm run preview`.
 
 > To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
-
-# sveltekit1.0-pokedex
