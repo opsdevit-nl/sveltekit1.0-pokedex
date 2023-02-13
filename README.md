@@ -9,11 +9,11 @@
 
 This is the Pokedex code base (after the tutorial of James Q Quick at YouTube) with the adjustments for SvelteKit 1.0 that was released in December 2022.
 In his tutorial he uses a beta version of SvelteKit and it has significantly changed, so if you follow the video it won't workout unless you adjust it for SvelteKit 1.0
-![SvelteKit Crash Course - SSR, API Routes, Stores, Tailwind CSS, and More!](https://www.youtube.com/watch?v=UU7MgYIbtAk)
+[![SvelteKit Crash Course - SSR, API Routes, Stores, Tailwind CSS, and More!](https://img.youtube.com/vi/UU7MgYIbtAk/0.jpg)](https://www.youtube.com/watch?v=UU7MgYIbtAk)
 
 ## create-svelte
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
+Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte)
 
 ## Creating a project
 
