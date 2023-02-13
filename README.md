@@ -6,7 +6,7 @@
 ![GitHub Discussions](https://img.shields.io/github/discussions/opsdevit-nl/sveltekit1.0-pokedex)
 ![GitHub top language](https://img.shields.io/github/languages/top/opsdevit-nl/sveltekit1.0-pokedex)
 ![build workflow](https://github.com/opsdevit-nl/sveltekit1.0-pokedex/actions/workflows/node.js.yml/badge.svg)
-![Master](https://github.com/github/docs/actions/workflows/main.yml/badge.svg?branch=main)
+![Master](https://github.com/github/docs/actions/workflows/node.js.yml/badge.svg?branch=main)
 
 This is the Pokedex code base (after the tutorial of James Q Quick at YouTube) with the adjustments for SvelteKit 1.0 that was released in December 2022.
 In his tutorial he uses a beta version of SvelteKit and it has significantly changed, so if you follow the video it won't workout unless you adjust it for SvelteKit 1.0
